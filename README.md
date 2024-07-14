@@ -22,3 +22,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%231DA1F2.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
